@@ -13,6 +13,9 @@ Changes
 
 The detailed changelog is published on [GitHub](https://github.com/py2exe/py2exe/releases/).
 
+Version 0.15.0.0:
+- Add support for Python 3.14
+
 Version 0.14.0.0:
 - Add support for Python 3.12 and 3.13
 - Drop support for Python 3.8
